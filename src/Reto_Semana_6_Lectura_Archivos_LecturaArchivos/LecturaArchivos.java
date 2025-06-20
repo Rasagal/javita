@@ -22,6 +22,7 @@ public class LecturaArchivos {
             }catch (IOException e){
                 System.out.println("❌ Error leyendo el archivo: " + e.getMessage());
             }
+            //Prueba de campo
         }
         else {
             System.out.println("❌ El archivo no existe.");
