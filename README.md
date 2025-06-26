@@ -14,6 +14,3 @@ Control de versiones con Git y GitHub
 
 IDEs como IntelliJ IDEA, Visual Studio Code, Eclipse
 
-Contacto
-Carlos
-[GitHub: https://github.com/tu-usuario]
