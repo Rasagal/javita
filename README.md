@@ -10,11 +10,11 @@ Cada proyecto incluye sus propios archivos README con detalles específicos. Exp
 
 Tecnologías y herramientas:
 
-Java
+-Java
 
-SQL
+-SQL
 
-Control de versiones con Git y GitHub
+-Control de versiones con Git y GitHub
 
-IDEs como IntelliJ IDEA, Visual Studio Code, Eclipse
+-IntelliJ IDEA, Visual Studio Code
 
