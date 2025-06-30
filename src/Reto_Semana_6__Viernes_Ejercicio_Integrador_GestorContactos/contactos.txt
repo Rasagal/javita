@@ -1,2 +1,0 @@
-Juan Pérez,612345678,juan@email.com
-Laura Ruiz,698745123,laura@email.com

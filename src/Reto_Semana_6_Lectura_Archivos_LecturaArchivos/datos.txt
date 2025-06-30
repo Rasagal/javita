@@ -1,3 +1,0 @@
-Hola mundo
-Estoy aprendiendo Java
-Leer archivos es útil
